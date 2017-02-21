@@ -1,0 +1,14 @@
+{
+  "name": "Jarvis-admin",
+  "description": "Jarvis Bot API ",
+  "repository": "",
+  "keywords": ["Line", "go", "static"],
+  "buildpacks": [
+    {
+      "url": ""
+    },
+    {
+      "url": "heroku/go"
+    }
+  ]
+}
