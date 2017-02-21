@@ -3,29 +3,29 @@
 	"ignore": "test",
 	"package": [
 		{
-			"checksumSHA1": "h8ZzyQTRljjxHgqCHniOd1hURV8=",
+			"checksumSHA1": "6/Arsx1Waw7hg6gRPudXGJ3VX7s=",
 			"path": "github.com/line/line-bot-sdk-go/linebot",
-			"revision": "b7e1bd128fef0e6a532d1afce049cbcd8dc5f4c8",
-			"revisionTime": "2016-11-01T06:09:53Z"
+			"revision": "4984f0f7a70400e41ca3b9d5af461de9a8abe43f",
+			"revisionTime": "2017-02-20T02:42:03Z"
 		},
 		{
-			"checksumSHA1": "9jjO5GjLa0XF/nfWihF02RoH4qc=",
+			"checksumSHA1": "67Was6oSjV1nwNJG6pJczYPTpeA=",
+			"path": "github.com/mattn/go-sqlite3",
+			"revision": "2acfafad5870400156f6fceb12852c281cbba4d5",
+			"revisionTime": "2017-02-16T06:57:29Z"
+		},
+		{
+			"checksumSHA1": "Y+HGqEkYM15ir+J93MEaHdyFy0c=",
 			"path": "golang.org/x/net/context",
-			"revision": "9ef22118a4b25863aa94546daffbc0a18feaafb3",
-			"revisionTime": "2016-11-09T21:27:32Z"
+			"revision": "6b27048ae5e6ad1ef927e72e437531493de612fe",
+			"revisionTime": "2017-02-17T08:49:01Z"
 		},
 		{
 			"checksumSHA1": "WHc3uByvGaMcnSoI21fhzYgbOgg=",
 			"path": "golang.org/x/net/context/ctxhttp",
-			"revision": "9ef22118a4b25863aa94546daffbc0a18feaafb3",
-			"revisionTime": "2016-11-09T21:27:32Z"
-		},
-		{
-			"checksumSHA1": "WHc3uByvGaMcnSoI21fhzYgbOgg=",
-			"path": "github.com/mattn/go-sqlite3",
-			"revision": "9ef22118a4b25863aa94546daffbc0a18feaafb3",
-			"revisionTime": "2016-11-09T21:27:32Z"
+			"revision": "6b27048ae5e6ad1ef927e72e437531493de612fe",
+			"revisionTime": "2017-02-17T08:49:01Z"
 		}
 	],
-	"rootPath": ""
+	"rootPath": "https://github.com/danpcl/Jarvis-admin"
 }

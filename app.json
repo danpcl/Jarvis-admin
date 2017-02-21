@@ -1,11 +1,11 @@
 {
-  "name": "Jarvis-admin",
-  "description": "Jarvis Bot API ",
-  "repository": "",
+  "name": "JarvisBot",
+  "description": "Jarvis",
+  "repository": "https://github.com/danpcl/Jarvis-admin.git",
   "keywords": ["Line", "go", "static"],
   "buildpacks": [
     {
-      "url": ""
+      "url": "https://github.com/kr/heroku-buildpack-go.git"
     },
     {
       "url": "heroku/go"

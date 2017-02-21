@@ -5,7 +5,7 @@
     "showOutput": "silent",
     "options": {
         "env": {
-            "GOPATH": "C:/Go/bin/bin;C:/Users/bzlin/go/bin"
+            "GOPATH": "C:/Project/Go"
         }
     },
     "tasks": [
