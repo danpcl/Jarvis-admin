@@ -41,8 +41,9 @@ func callbackHandler(w http.ResponseWriter, r *http.Request) {
 			switch message := event.Message.(type) {
 			case *linebot.TextMessage:
 				inText := strings.ToLower(message.Text)
-				if strings.Contains(inText, "實驗室機排程") {
-					out := GetRecentSchedule("AMP250-Exp")
+				if strings.Contains(inText, "實驗機排程") {
+					//out := GetRecentSchedule("AMP250-Exp")
+					out := "雷射校正"
 					if _, err = bot.ReplyMessage(event.ReplyToken, linebot.NewTextMessage(out)).Do(); err != nil {
 						log.Print(err)
 					}
